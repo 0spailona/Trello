@@ -1,0 +1,45 @@
+.column {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+  padding: 15px 10px;
+  background-color: lightgrey;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+.wrpTitleAndRemoveBtn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.columnTitle {
+  padding: 5px 0;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.customBtn{
+  border: none;
+  color: darkslategray;
+  background-color: inherit;
+  font-family: inherit;
+  font-weight: bold;
+  text-align: left;
+  cursor: pointer;
+}
+
+.addNote {
+  padding: 5px 0;
+  font-size: 18px;
+}
+
+.showSidebarBtn {
+  padding: 0 5px;
+  font-size: 24px;
+}
+
+

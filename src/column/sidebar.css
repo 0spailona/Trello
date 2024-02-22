@@ -1,0 +1,29 @@
+.sidebar {
+  display: none;
+  position: absolute;
+  top: 5px;
+  right: 0;
+  margin-right: 30px;
+  padding: 10px 10px;
+  border-radius: 4px;
+  background-color: darkgray;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0 10px;
+  margin: 0;
+}
+
+.listItem {
+}
+
+.removeColumnBtn, .renameColumnBtn {
+  padding: 5px;
+  font-size: 18px;
+
+}
+
+.show {
+  display: block;
+}

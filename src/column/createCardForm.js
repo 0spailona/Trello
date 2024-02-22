@@ -1,5 +1,5 @@
 
 
-export default class CardForm {
+export default class CreateCardForm {
 /// remove addNoteWRP => cardForm
 }
